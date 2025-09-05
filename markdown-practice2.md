@@ -25,6 +25,8 @@ Ordered list (numbered list)
 3. Spinach
 4. Cereal
 
+---
+
 1. Milk
 1. Eggs
 1. Spinach
