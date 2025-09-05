@@ -29,6 +29,7 @@ Ordered list (numbered list)
 
 1. Milk
 1. Eggs
+1. Ice cream
 1. Spinach
 1. Cereal
 
